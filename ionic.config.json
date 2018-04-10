@@ -1,0 +1,8 @@
+{
+  "name": "MovieProject",
+  "app_id": "85d22c6e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
